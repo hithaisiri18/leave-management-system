@@ -3,6 +3,9 @@
 A comprehensive, feature-rich leave management application built with **PHP**, **MySQL**, and **HTML/CSS**. This system helps employees apply for leaves, track their leave balance, and provides analytics on leave patterns.
 
 ---
+# Project Description
+A web application that helps employees apply for leaves, track their balance, and allows managers to approve requests. It automatically detects suspicious leave patterns and enforces company leave limits.
+
 
 ## 📋 Table of Contents
 
